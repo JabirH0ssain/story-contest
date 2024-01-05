@@ -1,0 +1,17 @@
+body{
+  width: 50%;  
+}
+
+table{
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+td, th{
+    border: 3px solid grey;
+}
+
+.wow, .wow2{
+    text-align: center;
+    font-weight: bold;
+}
